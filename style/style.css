@@ -2,6 +2,9 @@ body{
 background-color: black;
 }
 
+.blog-title{
+    color:blueviolet
+}
 p{
     color:blueviolet;
 }
