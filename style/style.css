@@ -11,9 +11,23 @@ p{
 }
 
 .post-title{
-    color:white
+    color:white;
+}
+
+.picture-title{
+    color: white;
 }
 
 div{
-    border: orange 5px solid
+    border: orange 5px solid;
+}
+
+#container{
+    width:80%;
+    margin: 0 auto;
+}
+
+nav{
+    display:grid;
+    text-align: center;
 }
