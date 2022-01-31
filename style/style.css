@@ -1,7 +1,19 @@
 body{
-background-color: darkorchid;
+background-color: black;
 }
 
 p{
-    color:black;
+    color:blueviolet;
+}
+
+.blog-post{
+    color: deepskyblue;
+}
+
+.post-title{
+    color:white
+}
+
+div{
+    border: orange 5px solid
 }
