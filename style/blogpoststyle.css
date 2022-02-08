@@ -1,11 +1,32 @@
-.blog-post{
+body{
+    background-color: black;
+}
+    
+p{
+    color:blueviolet;
+}
+    
+div{
+    border: orange 3px solid;
+}
+
+#blog-post{
     color: deepskyblue;
 }
 
-.post-title{
+#post-title{
     color:white;
 }
 
-.blog-title{
+#blog-title{
     color:blueviolet;
+}
+
+#blog-date{
+    
+}
+
+#container{
+    width: 80%;
+    margin: 0 auto;
 }
