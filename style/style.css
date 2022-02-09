@@ -15,6 +15,33 @@ div{
     margin: 0 auto;
 }
 
+.blog-post{
+    color: deepskyblue;
+}
+
+.post-title{
+    color:white;
+}
+
+.blog-title{
+    color:blueviolet;
+}
+
+.post-date{
+    color: orange;
+}
+
+.post-link{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    padding: 1px;
+    background-color: blueviolet;
+    text-decoration: none;
+    font-size: .8em;
+    color: black;
+    transition: background-color .2s, color .2s;
+}
+
 nav{
     display:grid;
     text-align: center;
