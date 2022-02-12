@@ -1,13 +1,18 @@
+* {
+
+    padding: 0px;
+    margin: 0px;
+    box-sizing:
+    border-box;
+    
+    }
+    
 body{
     background-color: black;
 }
     
 p{
     color:blueviolet;
-}
-    
-div{
-    border: orange 3px solid;
 }
 
 #blog-post{
@@ -26,7 +31,14 @@ div{
     color: orange;
 }
 
-#container{
+.container{
     width: 80%;
-    margin: 0 auto;
+    margin: 15px;
+    border: orange 3px solid;
+    padding: 10px;
+}
+
+.blog-grid-container{
+    display:grid;
+    grid-template-columns: 30% 40% 30%;
 }
