@@ -39,5 +39,9 @@ p{
 .blog-grid-container{
     display:grid;
     grid-template-columns: 20% 50% 20%;
-    
+}
+
+.leftColumnHeader{
+    color:deepskyblue;
+    text-align: center;
 }
