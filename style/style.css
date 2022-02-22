@@ -4,6 +4,7 @@ background-color: black;
 
 p{
     color:blueviolet;
+    display: inline-block;
 }
 
 div{
@@ -45,4 +46,8 @@ div{
 nav{
     display:grid;
     text-align: center;
+}
+
+.image{
+    display: inline-block;
 }
